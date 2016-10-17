@@ -5,5 +5,9 @@ int main(){
 	
 	int numbers[5];
 
+	int* p[5];
+
+	int (*q)[5];	
+
 	return 1;
 }
